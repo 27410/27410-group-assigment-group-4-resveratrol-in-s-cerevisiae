@@ -3,6 +3,7 @@
 
 # 27410 - Group assignment - Group 4 - Resveratrol production in S. cerevisiae
 
+
 ## Project summary (<300 words)
 The aim of this study is to identify and reconstruct a GSM capable of producing resveratrol in Saccharomyces cerevisiae for industrial purposes. We propose a suitable pathway for production of resveratrol with maximum productivity along with identification of targets (knockouts, downregulation, overexpression and co-factors) to maximize the yield.  
 
