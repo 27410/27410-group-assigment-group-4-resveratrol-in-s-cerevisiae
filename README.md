@@ -13,8 +13,14 @@
 > Good luck!
 
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
+The aim of this study is to identify and reconstruct a GSM capable of producing resveratrol in Saccharomyces cerevisiae for industrial purposes. We propose a suitable pathway for production of resveratrol with maximum productivity along with identification of targets (knockouts, downregulation, overexpression and co-factors) to maximize the yield.  
 
 ## Project overview
-Describe how your project is organized ...
+The files used for analysis are segregated in different folders.  
+
+The yeast8 model implemented in the study can be found under data/models. 
+
+The codes implemented can be found in the analysis folder. 
+
+The report.ipynb file consists of the workflow and the interpretation of data generated during this study. 
 
